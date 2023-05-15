@@ -19,7 +19,7 @@ public class exer3 {
 
             numero_somar = numero_somar + numero_digitado;
         }
-        System.out.println("a media dos numeros foi de: "+numero_somar/5);
+        System.out.println("a media dos numeros foi de: "+numero_somar/500);
 
     }
 }
