@@ -1,5 +1,5 @@
 /*
- * descrição: recebendo um numero e calculando o seu desconto de 15%
+ * descrição: calculando o total que deve ser pago de acordo com a quantidade de cada picole
  * autor: cauã
  * data: 17/05/2023
 */
@@ -25,7 +25,7 @@ public class cauaSalmaso_exer6{
        System.out.println("Digite a quantidade de picoles de roma:");
        r = leitor.nextInt();//roma
 
-       System.out.println("o total de roma deu:"+(r * 7.99));
+        System.out.println("o total de roma deu:"+(r * 7.99)+"\n"+"O toral de laranja foi:"+(l*2.29)+"\n"+"o total de kiwi foi de:"+(k*3.20));
 
     }
 }
