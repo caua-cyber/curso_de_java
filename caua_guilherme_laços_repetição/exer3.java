@@ -13,13 +13,13 @@ public class exer3 {
         int numero_somar = 0; //criando e inicializando a variavel numero_somar
         int numero_digitado = 0; //criando e inicializando a variavel numero_digitado
 
-        for(int contador = 0; contador <=500; contador++){
+        for(int contador = 1; contador <=500; contador++){
             System.out.println("Digite o "+contador+" numero:");
             numero_digitado = leitor.nextInt();
 
             numero_somar = numero_somar + numero_digitado;
         }
-        System.out.println("a media dos numeros foi de: "+numero_somar/500);
+        System.out.println("a media dos numeros foi de: "+numero_somar/contador);
 
     }
 }
