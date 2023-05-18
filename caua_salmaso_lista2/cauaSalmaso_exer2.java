@@ -1,5 +1,5 @@
 /*
- * descrição: recebendo um numero e calculando o seu desconto de 15%
+ * descrição: recebendo um numero e verificando se ele é maior
  * autor: cauã
  * data: 17/05/2023
 */
